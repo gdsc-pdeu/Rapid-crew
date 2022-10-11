@@ -1,0 +1,7 @@
+flask
+numpy
+pandas
+pillow
+sklearn
+python-dotenv
+tensorflow
